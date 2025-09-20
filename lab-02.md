@@ -105,9 +105,10 @@ ggplot(plastic_waste, aes(x = plastic_waste_per_cap, y = mismanaged_plastic_wast
 
 ![](lab-02_files/figure-gfm/plastic-waste-mismanaged-1.png)<!-- -->
 
-Avec ce graphe, on peut voir une tendance où pour plusieurs continents,
-plus la production de déchets par habitant est grande, plus les déchets
-sont mal gérés.
+On remarque que l’Afrique et l’Océanie sont les pays qui ont le plus de
+difficultés à gérer leurs déchets plastiques. Au contraire, l’Europe et
+l’Amérique du Nord sont des continents qui gèrent généralement mieux
+leurs déchets plastiques.
 
 ### Exercice 5
 
